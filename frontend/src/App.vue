@@ -1,9 +1,10 @@
 <script setup>
-import Login from './views/Login.vue'
+// import Nav from './views/Nav.vue'
 </script>
 
 <template>
   <main>
+    <!-- <Nav /> -->
     <RouterView />
   </main>
 </template>
